@@ -12,5 +12,4 @@ This project demonstrates a "System Architect" approach to identifying Out-of-Di
 ## Visualizations
 ![Forensic Cluster Analysis](forensic_clusters.png)
 
-## Contact
-If your company needs high-precision data auditing or AI safety research, reach out via [LinkedIn]( www.linkedin.com/in/testimony-oladayo-5530143a4).
+
